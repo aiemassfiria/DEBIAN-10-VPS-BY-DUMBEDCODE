@@ -1,10 +1,5 @@
-#!/bin/bash
-# Medium.com/@DumbedCode
-# Twitter.com/@DumbedC
-#############################
-#############################
-# Variables (Can be changed depends on your preferred values)
-# Script name
+!/bin/bash
+
 MyScriptName='DEBIAN-10-VPS-BY-DUMBEDCODE'
 
 # OpenSSH Ports
