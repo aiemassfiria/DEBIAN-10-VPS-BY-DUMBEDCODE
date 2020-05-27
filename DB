@@ -970,7 +970,7 @@ echo "Installation has been completed!!"
 echo "--------------------------------------------------------------------------------"
 echo "                            Debian Premium Script                               "
 echo "                                 -FordSenpai-                                   "
-echo "--------------------------------------------------------------------------------"
+echo "-------------------------Brought to you by DumbedCode---------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
 echo "   - Timezone    : Asia/Manila (GMT +8)"  | tee -a log-install.txt
