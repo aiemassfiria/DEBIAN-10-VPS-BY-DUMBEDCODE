@@ -1001,11 +1001,11 @@ echo ""  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "OpenVPN File, Download it here:"  | tee -a log-install.txt
 echo "   - Download Link           : http://$IPADDR:85/vpn-file.zip"  | tee -a log-install.txt
-echo " ©DumbedC"  | tee -a log-install.txt
+echo "Twitter: ©DumbedC"  | tee -a log-install.txt
 echo " Medium.com/@DumbedCode"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo " DumbedCode will not be responsible for any Damages Caused!"  | tee -a log-install.txt
-echo " Please Reboot your VPS"
+echo " TYpe menu and press Enter"
 
  # Clearing all logs from installation
  rm -rf /root/.bash_history && history -c && echo '' > /var/log/syslog
